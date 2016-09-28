@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hallo people!
+
+i'm jurrian, this is my first github file...!
